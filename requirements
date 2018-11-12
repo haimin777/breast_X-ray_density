@@ -1,5 +1,7 @@
 numpy
 pandas
-python-opencv
+opencv-python
 tensorflow
 pydicom
+matplotlib
+skimage
